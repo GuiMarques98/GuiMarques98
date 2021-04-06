@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Guilherme some brazilian guy 👋
+
+## I'm a Developer in leaning some stuffs and who loves IoT !!!
+
+- 🔭 I’m currently working on Coopersystem with Node.
+- 🌱 I’m currently learning JavaScript, React, Flutter/Dart and Continuous Integration.
+- 💬 Ask me about some RPG stuffs and play some games.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play some RPG campaigns (Call of Cthulhu > Tormenta > D&D) 😄
+
+
+### Connect with me:
+
+[<img align="left" alt="Guilherme | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Guilherme | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiMarques98&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[linkedin]  : https://www.linkedin.com/in/guilherme-marques-494781154/
+[instagram] : https://www.instagram.com/gui_mmsilva98/
+
 
 <!--
 **GuiMarques98/GuiMarques98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
