@@ -21,9 +21,3 @@
 
 [linkedin]  : https://www.linkedin.com/in/guilherme-marques-494781154/
 [instagram] : https://www.instagram.com/gui_mmsilva98/
-
-
-<!--
-**GuiMarques98/GuiMarques98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
