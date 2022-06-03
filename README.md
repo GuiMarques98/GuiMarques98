@@ -2,8 +2,8 @@
 
 ## I'm a Developer in leaning some stuffs and who loves IoT !!!
 
-- 🔭 I’m currently working on Coopersystem with Node.
-- 🌱 I’m currently learning JavaScript, Docker, Kubernetes and Continuous Deployment.
+- 🔭 I’m currently searching for work.
+- 🌱 I’m currently learning Unity and asyncronous processing.
 - 💬 Ask me about some RPG stuffs and play some games.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play some RPG campaigns (Call of Cthulhu > Tormenta > D&D) 😄
